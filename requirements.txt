@@ -1,9 +1,0 @@
-flask
-groq
-python-dotenv
-gunicorn
-
-Flask-SQLAlchemy
-Flask-Login
-Flask-Bcrypt
-sqlalchemy
